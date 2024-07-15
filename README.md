@@ -3,6 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piter11251&label=Profile%20views&color=0e75b6&style=flat" alt="piter11251" /> </p>
 
+## Projects
+### [Restaurant](https://github.com/piter11251/RestaurantAPI)
+It is an ASP .NET Web API application, the basic functionality allows you to get all restaurants, get restaurants by their id, create a restaurant with its address and list of dishes, modify restaurants and delete them. In addition, error handling and logging of errors to text files is done. Packages used in the project: Entity Framework, Swagger, AutoMapper, NLog.
+
+### [Auctions](https://github.com/piter11251/Auctions)
+This is an ASP .NET Core MVC application that is a very simple version of an auction site. The application offers the ability to add auctions and bid against other participants. When the bidding closes, the winner gets information on the screen that he or she won, and the other participants get information about which player won the bidding. The application uses a relational MS SQL database to store the information.
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/piotr-kozlowski99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/piotr-kozlowski99/" height="30" width="40" /></a>
@@ -13,10 +22,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piter11251&show_icons=true&locale=en&layout=compact" alt="piter11251" /></p>
 
-## Projects
-### [Restaurant](https://github.com/piter11251/RestaurantAPI)
-It is an ASP .NET Web API application, the basic functionality allows you to get all restaurants, get restaurants by their id, create a restaurant with its address and list of dishes, modify restaurants and delete them. In addition, error handling and logging of errors to text files is done. Packages used in the project: Entity Framework, Swagger, AutoMapper, NLog.
-
-### [Auctions](https://github.com/piter11251/Auctions)
-This is an ASP .NET Core MVC application that is a very simple version of an auction site. The application offers the ability to add auctions and bid against other participants. When the bidding closes, the winner gets information on the screen that he or she won, and the other participants get information about which player won the bidding. The application uses a relational MS SQL database to store the information.
 
