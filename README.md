@@ -18,8 +18,6 @@ This is an ASP .NET Core MVC application that is a very simple version of an auc
 ## Contact
 - Email: [99.pkozlowski@gmail.com](mailto:99.pkozlowski@gmail.com)
 - LinkedIn: [Piotr Kozłowski](https://www.linkedin.com/in/piotr-kozlowski99/)
-- GitHub: [piter11251]([https://github.com/twoj-profil](https://github.com/piter11251))
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=piter11251&show_icons=true&theme=radical)
+- GitHub: [piter11251](https://github.com/piter11251)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piter11251&layout=compact&theme=radical)
