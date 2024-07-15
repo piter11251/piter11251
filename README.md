@@ -20,6 +20,6 @@ This is an ASP .NET Core MVC application that is a very simple version of an auc
 - LinkedIn: [Piotr Kozłowski](https://www.linkedin.com/in/piotr-kozlowski99/)
 - GitHub: [piter11251]([https://github.com/twoj-profil](https://github.com/piter11251))
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=twoj-profil&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=piter11251&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twoj-profil&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piter11251&layout=compact&theme=radical)
